@@ -1,0 +1,82 @@
+{
+  "hash": "0c72f63a",
+  "configHash": "e9667dc0",
+  "lockfileHash": "4bb103c3",
+  "browserHash": "6abf9631",
+  "optimized": {
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "03ece6ef",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "f04a5073",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "a05e84ad",
+      "needsInterop": false
+    },
+    "motion/react": {
+      "src": "../../node_modules/motion/dist/es/react.mjs",
+      "file": "motion_react.js",
+      "fileHash": "4796b1c8",
+      "needsInterop": false
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "d5b00624",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b8b2a75c",
+      "needsInterop": true
+    },
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "b94bd26e",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "vision_bundle-TIQSW5H2": {
+      "file": "vision_bundle-TIQSW5H2.js"
+    },
+    "chunk-TTU3SXKZ": {
+      "file": "chunk-TTU3SXKZ.js"
+    },
+    "chunk-BCOG2NIA": {
+      "file": "chunk-BCOG2NIA.js"
+    },
+    "chunk-RBO73NZH": {
+      "file": "chunk-RBO73NZH.js"
+    },
+    "chunk-G4WHGFQ4": {
+      "file": "chunk-G4WHGFQ4.js"
+    },
+    "chunk-JMLGY4N2": {
+      "file": "chunk-JMLGY4N2.js"
+    },
+    "chunk-2HFLUZAC": {
+      "file": "chunk-2HFLUZAC.js"
+    },
+    "hls-XHYDEOWA": {
+      "file": "hls-XHYDEOWA.js"
+    },
+    "chunk-LFC33N37": {
+      "file": "chunk-LFC33N37.js"
+    },
+    "chunk-2TUXWMP5": {
+      "file": "chunk-2TUXWMP5.js"
+    }
+  }
+}
