@@ -49,16 +49,16 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
 
   },
   {
-    id: "4",
-    title: "City Scape Series1, Acrylic on wood",
-    artist: "Grace Refuerzo Art",
+    id: "26",
+    title: "Linear Harmony No. 1&2, 2026,",
+    artist: "Artist Room 1",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
-    price: "$3,500",
-    imageUrl: "/images/03.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1239&quantity=1",
-    width: 2.0,
-    height: 3.0,
-    size: "24in x 36in" 
+    price: "$3,800",
+    imageUrl: "/images/24.jpeg",
+    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=2610&quantity=1",
+    width: 4.0,
+    height: 4.0,
+    size: "72in x 60in"
   },
   {
     id: "5",
@@ -308,17 +308,18 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     size: "12in x 12in"
   },
   {
-    id: "26",
-    title: "Linear Harmony No. 1&2, 2026,",
-    artist: "Artist Room 1",
+    id: "4",
+    title: "City Scape Series1, Acrylic on wood",
+    artist: "Grace Refuerzo Art",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
-    price: "$3,800",
-    imageUrl: "/images/24.jpeg",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=2610&quantity=1",
-    width: 4.0,
-    height: 4.0,
-    size: "72in x 60in"
+    price: "$3,500",
+    imageUrl: "/images/03.png",
+    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1239&quantity=1",
+    width: 2.0,
+    height: 3.0,
+    size: "24in x 36in" 
   }
+
 ];
 
 // NOTE: To use your local images later:
