@@ -50,7 +50,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
   },
   {
     id: "26",
-    title: "Linear Harmony No. 1&2, 2026,",
+    title: "Linear Harmony I,",
     artist: "Artist Room 1",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$3,800",
@@ -62,7 +62,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
   },
   {
     id: "26",
-    title: "Linear Harmony No. 1&2, 2026,",
+    title: "Linear Harmony II,",
     artist: "Artist Room 1",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$3,800",
