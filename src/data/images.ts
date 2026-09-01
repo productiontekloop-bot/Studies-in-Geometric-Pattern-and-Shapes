@@ -306,7 +306,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     width: 2.5,
     height: 2.5,
     size: "12in x 12in"
-  },
+  },  
   {
     id: "4",
     title: "City Scape Series1, Acrylic on wood",
