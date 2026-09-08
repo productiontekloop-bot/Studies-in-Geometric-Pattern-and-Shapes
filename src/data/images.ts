@@ -72,18 +72,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     height: 4.0,
     size: "72in x 60in"
   },
-  {
-    id: "5",
-    title: "City Scape Series 2, Acrylic on wood",
-    artist: "Grace Refuerzo",
-    description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
-    price: "$3,500",
-    imageUrl: "/images/04.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1238&quantity=1",
-    width: 2.0,
-    height: 3.0,
-    size: "24in x 36in"
-  },
+
   {
     id: "6",
     title: "Dots and Squares",
@@ -318,7 +307,19 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     width: 2.5,
     height: 2.5,
     size: "12in x 12in"
-  },  
+  }, 
+  {
+    id: "5",
+    title: "City Scape Series 2, Acrylic on wood",
+    artist: "Grace Refuerzo",
+    description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
+    price: "$3,500",
+    imageUrl: "/images/04.png",
+    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1238&quantity=1",
+    width: 2.0,
+    height: 3.0,
+    size: "24in x 36in"
+  }, 
   {
     id: "4",
     title: "City Scape Series1, Acrylic on wood",
@@ -331,7 +332,6 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     height: 3.0,
     size: "24in x 36in" 
   }
-
 ];
 
 // NOTE: To use your local images later:
