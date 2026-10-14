@@ -30,7 +30,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$4,800",
     imageUrl: "/images/001.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1291&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1291&quantity=1",
     width: 3.6,
     height: 4.0,
     size: "36in x 48in"
@@ -42,7 +42,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$3,500",
     imageUrl: "/images/02.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1244&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1244&quantity=1",
     size: "30in x 40in",
     width: 3.0,
     height: 4.0
@@ -55,7 +55,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$3,800",
     imageUrl: "/images/24.jpeg",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=2610&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2610&quantity=1",
     width: 4.0,
     height: 4.0,
     size: "72in x 60in"
@@ -67,7 +67,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$3,800",
     imageUrl: "/images/24.jpeg",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=2610&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2610&quantity=1",
     width: 4.0,
     height: 4.0,
     size: "72in x 60in"
@@ -80,7 +80,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$2,800",
     imageUrl: "/images/05.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1268&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1268&quantity=1",
     width: 3.6,
     height: 4.0,
     size: "36in x 48in"
@@ -93,7 +93,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$4,900",
     imageUrl: "/images/06.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1266&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1266&quantity=1",
     width: 3.5,
     height: 4.5,
     size: "48in x 60in"
@@ -107,7 +107,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$2,500",
     imageUrl: "/images/07.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1264&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1264&quantity=1",
     width: 2.0,
     height: 3.6,
     size: "12in x 36in"
@@ -119,7 +119,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$450",
     imageUrl: "/images/08.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1273&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1273&quantity=1",
     width: 2.5,
     height: 3.5,
     size: "24in x 36in"
@@ -131,7 +131,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/09.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1259&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1259&quantity=1",
     width: 2.0,
     height: 3.5,
     size: "10in x 10in"
@@ -143,7 +143,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/10.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1255&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1255&quantity=1",
     width: 2.0,
     height: 3.5,
     size: "10in x 10in"
@@ -155,7 +155,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/11.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1259&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1259&quantity=1",
     width: 2.0,
     height: 3.5,
     size: "10in x 10in"
@@ -167,7 +167,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/12.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1262&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1262&quantity=1",
     width: 2.0,
     height: 3.5,
     size: "10in x 10in"
@@ -179,7 +179,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$5,500",
     imageUrl: "/images/13.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1263&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1263&quantity=1",
     width: 3.0,
     height: 4.5,
     size: "60in x 72in"
@@ -191,7 +191,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/14.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1250&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1250&quantity=1",
     width: 2.5,
     height: 3.5,
     size: "9in x 12in"
@@ -205,7 +205,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/15.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1251&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1251&quantity=1",
     width: 2.5,
     height: 3.5,
     size: "9in x 12in"
@@ -217,7 +217,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/16.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1245&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1245&quantity=1",
     width: 2.5,
     height: 3.5,
     size: "9in x 12in"
@@ -229,7 +229,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/17.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1248&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1248&quantity=1",
     width: 2.5,
     height: 3.5,
     size: "9in x 12in"
@@ -241,7 +241,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/18.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1243&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1243&quantity=1",
     width: 2.5,
     height: 3.5,
     size: "9in x12in"
@@ -253,7 +253,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$650",
     imageUrl: "/images/19.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=2019&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2019&quantity=1",
     width: 3.5,
     height: 4.5,
     size: "36in x 48in"
@@ -265,7 +265,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/20.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=2023&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2023&quantity=1",
     width: 2.5,
     height: 2.5,
     size: "12in x 12in"
@@ -277,7 +277,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/21.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=2025&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2025&quantity=1",
     width: 2.5,
     height: 2.5,
     size: "12in x 12in"
@@ -289,7 +289,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/22.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=2027&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2027&quantity=1",
     width: 2.5,
     height: 2.5,
     size: "12in x 12in"
@@ -303,7 +303,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
     imageUrl: "/images/23.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=2029&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2029&quantity=1",
     width: 2.5,
     height: 2.5,
     size: "12in x 12in"
@@ -315,7 +315,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$3,500",
     imageUrl: "/images/04.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1238&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1238&quantity=1",
     width: 2.0,
     height: 3.0,
     size: "24in x 36in"
@@ -327,7 +327,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$3,500",
     imageUrl: "/images/03.png",
-    productUrl: "https://demowebsiteexecutions.com/grace/checkout/?add-to-cart=1239&quantity=1",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1239&quantity=1",
     width: 2.0,
     height: 3.0,
     size: "24in x 36in" 
