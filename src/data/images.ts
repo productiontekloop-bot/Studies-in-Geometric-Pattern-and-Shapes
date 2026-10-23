@@ -112,17 +112,17 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     height: 3.6,
     size: "12in x 36in"
   },
-  {
-    id: "9",
-    title: "Mod, Acrylic on canvas",
+ {
+    id: "25",
+    title: "Oil and gold leaf on canvas",
     artist: "Artist Room 1",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
-    price: "$450",
-    imageUrl: "/images/08.png",
-    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1273&quantity=1",
-    width: 2.5,
-    height: 3.5,
-    size: "24in x 36in"
+    price: "$8,400.00",
+    imageUrl: "/images/25.jpeg",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2784&quantity=1",
+    width: 3.5,
+    height: 4.0,
+    size: "53in x 95in"
   },
   {
     id: "10",
@@ -258,26 +258,27 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     height: 4.5,
     size: "36in x 48in"
   },
-  {
+ 
+ {
     id: "21",
-    title: "Flower Series l, Acrylic on wood",
+    title: "Mod, Acrylic on canvas",
     artist: "Artist Room 1",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
-    price: "$350",
-    imageUrl: "/images/20.png",
-    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2023&quantity=1",
+    price: "$450",
+    imageUrl: "/images/08.png",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=1273&quantity=1",
     width: 2.5,
-    height: 2.5,
-    size: "12in x 12in"
+    height: 3.5,
+    size: "24in x 36in"
   },
-  {
+ {
     id: "22",
-    title: "Flower Series ll, Acrylic on wood",
+    title: "Flower Series lV, Acrylic on wood",
     artist: "Artist Room 1",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
-    imageUrl: "/images/21.png",
-    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2025&quantity=1",
+    imageUrl: "/images/23.png",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2029&quantity=1",
     width: 2.5,
     height: 2.5,
     size: "12in x 12in"
@@ -296,20 +297,32 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
   },
 
   // --- WEST WALL (1 Normal Artwork to make exactly 23) ---
-  {
+{
     id: "24",
-    title: "Flower Series lV, Acrylic on wood",
+    title: "Flower Series ll, Acrylic on wood",
     artist: "Artist Room 1",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
     price: "$350",
-    imageUrl: "/images/23.png",
-    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2029&quantity=1",
+    imageUrl: "/images/21.png",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2025&quantity=1",
     width: 2.5,
     height: 2.5,
     size: "12in x 12in"
   }, 
   {
     id: "5",
+    title: "Flower Series l, Acrylic on wood",
+    artist: "Artist Room 1",
+    description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
+    price: "$350",
+    imageUrl: "/images/20.png",
+    productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2023&quantity=1",
+    width: 2.5,
+    height: 2.5,
+    size: "12in x 12in"
+  },
+ {
+    id: "4",
     title: "City Scape Series 2, Acrylic on wood",
     artist: "Grace Refuerzo",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
@@ -319,9 +332,9 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     width: 2.0,
     height: 3.0,
     size: "24in x 36in"
-  }, 
+  },
   {
-    id: "4",
+    id: "9",
     title: "City Scape Series1, Acrylic on wood",
     artist: "Grace Refuerzo Art",
     description: "Grace Refuerzo-level exhibition frame. Ready for replacement.",
@@ -331,7 +344,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     width: 2.0,
     height: 3.0,
     size: "24in x 36in" 
-  }
+  },
 ];
 
 // NOTE: To use your local images later:
