@@ -120,7 +120,7 @@ export const GALLERY_IMAGES: ImageArtwork[] = [
     price: "$8,400.00",
     imageUrl: "/images/25.jpeg",
     productUrl: "https://gracerefuerzoart.com/checkout/?add-to-cart=2784&quantity=1",
-    width: 3.5,
+    width: 6,
     height: 4.0,
     size: "53in x 95in"
   },
